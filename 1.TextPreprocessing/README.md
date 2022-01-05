@@ -1,4 +1,6 @@
-# Tasks Performed:
+# Carrying out the basic steps of Text Preprocessing
+
+### Tasks Performed:
 1. **Text Normalisation**
 - Converting all letters to lower or upper case
 - Converting numbers into words or removing numbers
