@@ -1,4 +1,7 @@
-# Tasks Performed:
+# Understanding the importance of occurances of words in documents 
+
+
+### Tasks Performed:
 
 1. Form word cloud from textual data in R using the wordcloud() module. Perform analysis on these words.
 2. Play around with Google N-gram viewer.
